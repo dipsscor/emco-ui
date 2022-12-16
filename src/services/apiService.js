@@ -40,8 +40,8 @@ const getAllProjects = () => {
     });
 };
 
-composite-apps=orchestrator_endpoint;
-apps=apps=orchestrator_endpoint;
+const composite-apps=orchestrator_endpoint;
+const apps=apps=orchestrator_endpoint;
 
 //composite apps
 const getCompositeApps = (request) => {
