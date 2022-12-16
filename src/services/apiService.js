@@ -40,6 +40,9 @@ const getAllProjects = () => {
     });
 };
 
+composite-apps=orchestrator_endpoint;
+apps=apps=orchestrator_endpoint;
+
 //composite apps
 const getCompositeApps = (request) => {
     return axios
